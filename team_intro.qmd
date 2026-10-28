@@ -10,6 +10,10 @@ format: html
      merge conflict. Resolve it together rather than one person overwriting the other. -->
 
 - Nitin Janath
+    
+- Ashrita Mahadevu
+- Cameron Nguyen
+-
 
 ## Team Visualizations
 
