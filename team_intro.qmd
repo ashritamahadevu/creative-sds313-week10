@@ -17,6 +17,11 @@ format: html
 -
 Cameron Nguyen
 Nachiket Bidarkundi
+- Kalki Pradeepkumar
+- Nitin Janath
+- Ashrita Mahadevu
+- Cameron Nguyen
+- Nachiket Bidarkundi
 
 ## Team Visualizations
 
