@@ -10,13 +10,6 @@ format: html
      merge conflict. Resolve it together rather than one person overwriting the other. -->
 
 - Nilaksh Sujayakumar
-- Nitin Janath
-    
-- Ashrita Mahadevu
-- Cameron Nguyen
--
-Cameron Nguyen
-Nachiket Bidarkundi
 - Kalki Pradeepkumar
 - Nitin Janath
 - Ashrita Mahadevu
